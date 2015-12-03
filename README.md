@@ -18,6 +18,11 @@ Links to long ass mixtapes of classic electronic music. From intelligent drum & 
 - [Armand Van Helden - Essential Mix (1996) (BBC Radio One)](https://soundcloud.com/danceisafeelingmusicblog/armand-van-helden-essential-mix-1996-bbc-one)
 - [DJ Touche - Essential Mix (2004) (BBC Radio One)](https://www.mixcloud.com/BBCEssentialMix/dj-touche-essential-mix-01022004/)
 
+## Hip-hop
+
+- [Cut Chemist - The Diabolical (1996)](http://simfonik.com/2010/09/cut-chemist-the-diabolical/)
+- [Cut Chemist - Sick Experiment (1995)](http://simfonik.com/2011/08/cut-chemist-sick-experiment/)
+
 ## Contributions
 
 PR's welcome, the more the merrier.
