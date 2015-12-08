@@ -34,11 +34,3 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [Cut Chemist - The Diabolical (1996)](http://simfonik.com/2010/09/cut-chemist-the-diabolical/)
 - [Cut Chemist - Sick Experiment (1995)](http://simfonik.com/2011/08/cut-chemist-sick-experiment/)
-
-## Contributions
-
-PR's welcome, the more the merrier.
-
-To contribute your favorites simply clone this project, add your links into the README.md as Markdown, and submit a new PR to the project. Dirt simple.
-
-Sorry, no country or classic rock. Obviously.
