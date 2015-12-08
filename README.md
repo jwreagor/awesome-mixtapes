@@ -1,6 +1,18 @@
-# Awesome Mixtapes
+# Awesome Mixtapes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Links to long ass mixtapes of classic electronic music. From intelligent drum & bass, to club house... Contribute to everyone's listening pleasure! 
+> A curated list of links to great electronic/hip-hop mixtapes.
+
+From intelligent drum & bass, to club house... Contribute to everyone's listening pleasure! 
+
+[What makes for an awesome list?](awesome.md)
+
+Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+
+## Table of Contents
+
+- [Jungle](#jungle)
+- [House](#house)
+- [Hip-hop](#hip-hop)
 
 ## Jungle
 
