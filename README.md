@@ -28,6 +28,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [Armand Van Helden - Rise Vol. 1 (1993)](https://soundcloud.com/togetherboston/armand-van-helden-rise-vol-1)
 - [Armand Van Helden - Essential Mix (1996) (BBC Radio One)](https://soundcloud.com/danceisafeelingmusicblog/armand-van-helden-essential-mix-1996-bbc-one)
+- [Daft Punk - Essential Mix (1997) (BBC Radio One)](https://soundcloud.com/retailgroup/daft-punk-essential-mix-1997)
 - [DJ Touche - Essential Mix (2004) (BBC Radio One)](https://www.mixcloud.com/BBCEssentialMix/dj-touche-essential-mix-01022004/)
 
 ## Hip-hop
