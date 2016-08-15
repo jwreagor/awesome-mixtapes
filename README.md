@@ -35,10 +35,22 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Armand Van Helden - Essential Mix (1996) (BBC Radio One)](https://soundcloud.com/danceisafeelingmusicblog/armand-van-helden-essential-mix-1996-bbc-one)
 - [Daft Punk - Essential Mix (1997) (BBC Radio One)](https://soundcloud.com/retailgroup/daft-punk-essential-mix-1997)
 - [DJ Touche - Essential Mix (2004) (BBC Radio One)](https://www.mixcloud.com/BBCEssentialMix/dj-touche-essential-mix-01022004/)
-- [The 2 Bears - Bears In Space - Continuous Mix](https://soundcloud.com/the2bears/bears-in-space-continuous-mix-1)
-- [The 2 Bears - Underground Sweat Mix](https://soundcloud.com/the2bears/underground-sweat-mix)
+- [The 2 Bears - 1hr Mix for Annie Nightingale (BBC Radio 1)](https://soundcloud.com/the2bears/the-2-bears-1hr-guest-mix)
+- [The 2 Bears - EG.528 (Sonar Special)](https://soundcloud.com/egroove/eg528-the-2-bears)
+- [Fake Blood - Unlisted 021 (Taking Libs) (Main Course)](https://soundcloud.com/maincoursemedia/unlisted021-fake-blood)
+- [Bot - Unlisted 018 (Undercovery Channel) (Main Course)](https://soundcloud.com/maincoursemedia/unlisted-018-bot)
 
 ## Hip-hop
 
 - [Cut Chemist - The Diabolical (1996)](http://simfonik.com/2010/09/cut-chemist-the-diabolical/)
 - [Cut Chemist - Sick Experiment (1995)](http://simfonik.com/2011/08/cut-chemist-sick-experiment/)
+
+## Techno
+
+- [Nigel Richards - Hidden Sounds of Philly](https://soundcloud.com/skooch/nigel-richards-nigel-richards-hidden-sounds-of-philly)
+
+## Random
+
+- [The 2 Bears - Bears In Space - Continuous Mix](https://soundcloud.com/the2bears/bears-in-space-continuous-mix-1)
+- [The 2 Bears - Underground Sweat Mix](https://soundcloud.com/the2bears/underground-sweat-mix)
+
