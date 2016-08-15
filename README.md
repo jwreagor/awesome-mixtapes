@@ -22,7 +22,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Dieselboy - A Soldier's Story](https://soundcloud.com/dieselboy/dieselboy-a-soldiers-story)  
 - [Dieselboy - The 6ixth Session](https://soundcloud.com/dieselboy/the-6ixth-session-1)  
 - [Dieselboy - Project Human](https://soundcloud.com/dieselboy/project-human)  
-- [Dieselboy - The Dungeonmaster's Guide](https://soundcloud.com/dieselboy/dieselboy-the-dungeonmasters-guide)  
+- [Dieselboy - The Dungeonmaster's Guide](https://soundcloud.com/dieselboy/dieselboy-the-dungeonmasters-guide)
+
+## You Know The Score
+
+- [JAKAZID - As Heard @ Hardcore Synergy 2014](https://soundcloud.com/jakazid/as-heard-at-hardcore-synergy-2014)
 
 ## House
 
