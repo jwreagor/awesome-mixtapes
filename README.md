@@ -30,6 +30,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Armand Van Helden - Essential Mix (1996) (BBC Radio One)](https://soundcloud.com/danceisafeelingmusicblog/armand-van-helden-essential-mix-1996-bbc-one)
 - [Daft Punk - Essential Mix (1997) (BBC Radio One)](https://soundcloud.com/retailgroup/daft-punk-essential-mix-1997)
 - [DJ Touche - Essential Mix (2004) (BBC Radio One)](https://www.mixcloud.com/BBCEssentialMix/dj-touche-essential-mix-01022004/)
+- [The 2 Bears - Bears In Space - Continuous Mix](https://soundcloud.com/the2bears/bears-in-space-continuous-mix-1)
+- [The 2 Bears - Underground Sweat Mix](https://soundcloud.com/the2bears/underground-sweat-mix)
 
 ## Hip-hop
 
