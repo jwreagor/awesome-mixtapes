@@ -2,7 +2,7 @@
 
 > A curated list of links to great electronic/hip-hop mixtapes.
 
-From intelligent drum & bass, to club house... Contribute to everyone's listening pleasure! 
+From intelligent drum & bass, to club house... Contribute to everyone's listening pleasure!
 
 [What makes for an awesome list?](awesome.md)
 
@@ -11,18 +11,23 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Table of Contents
 
 - [Jungle](#jungle)
+- [Hardcore](#hardcore)
 - [House](#house)
 - [Hip-hop](#hip-hop)
 
 ## Jungle
 
-- [Dieselboy - East Coast Science 1 (1996)](https://soundcloud.com/dieselboy/ecs1)  
-- [Dieselboy - East Coast Science 2 (1997)](https://soundcloud.com/dieselboy/ecs2)  
-- [Dieselboy - East Coast Science 3 (1998)](https://soundcloud.com/dieselboy/dieselboy-east-coast-science-3)  
-- [Dieselboy - A Soldier's Story](https://soundcloud.com/dieselboy/dieselboy-a-soldiers-story)  
-- [Dieselboy - The 6ixth Session](https://soundcloud.com/dieselboy/the-6ixth-session-1)  
-- [Dieselboy - Project Human](https://soundcloud.com/dieselboy/project-human)  
-- [Dieselboy - The Dungeonmaster's Guide](https://soundcloud.com/dieselboy/dieselboy-the-dungeonmasters-guide)  
+- [Dieselboy - East Coast Science 1 (1996)](https://soundcloud.com/dieselboy/ecs1)
+- [Dieselboy - East Coast Science 2 (1997)](https://soundcloud.com/dieselboy/ecs2)
+- [Dieselboy - East Coast Science 3 (1998)](https://soundcloud.com/dieselboy/dieselboy-east-coast-science-3)
+- [Dieselboy - A Soldier's Story](https://soundcloud.com/dieselboy/dieselboy-a-soldiers-story)
+- [Dieselboy - The 6ixth Session](https://soundcloud.com/dieselboy/the-6ixth-session-1)
+- [Dieselboy - Project Human](https://soundcloud.com/dieselboy/project-human)
+- [Dieselboy - The Dungeonmaster's Guide](https://soundcloud.com/dieselboy/dieselboy-the-dungeonmasters-guide)
+
+## Hardcore
+
+- [JAKAZID - As Heard @ Hardcore Synergy 2014](https://soundcloud.com/jakazid/as-heard-at-hardcore-synergy-2014)
 
 ## House
 
